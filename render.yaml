@@ -20,16 +20,12 @@ services:
         value: Zlpc234aNDGfLnjyZC3UgEi9ex6B1CNz
       - key: N8N_ENCRYPTION_KEY
         value: GzfX8ZmGzB/6LGIVS91mMoIkiRi6c6aHlUR/frHqcZg=
-      - key: N8N_HOST
-        sync: false  # set manually in dashboard
       - key: N8N_PROTOCOL
         value: https
       - key: N8N_PORT
         value: 5678
       - key: PORT
         value: 5678
-      - key: WEBHOOK_URL
-        sync: false  # set manually in dashboard
       - key: GENERIC_TIMEZONE
         value: Europe/Paris
       - key: TZ
